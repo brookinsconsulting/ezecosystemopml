@@ -6,8 +6,8 @@
         <ownerEmail>brookinsconsulting+ezopml [ a t ] gmail [ d o t ] com</ownerEmail>
         <dateCreated>10/26/2005; 17:53:03 AM</dateCreated>
         <dateModified>Wed, 03 Dec 2007 03:40:07 -0600</dateModified>
-        </head>
-	<body>
+    </head>
+    <body>
     <outline text="ez-no">
         <outline language="english" type="rss" version="RSS" text="eZ News" htmlUrl="http://ez.no/company/news/" xmlUrl="http://ez.no/rss/feed/news" />
         <outline language="english" type="rss" version="RSS" text="eZ Community News" htmlUrl="http://ez.no/community/news/" xmlUrl="http://ez.no/rss/feed/communitynews" />
@@ -21,13 +21,13 @@
     </outline>
     <outline text="ez-forum">
         <outline language="english" type="rss" version="RSS" text="eZ Forum Install and Configuration" htmlUrl="http://ez.no/community/forum/install_configuration/" xmlUrl="http://ez.no/rss/feed/forum_install_configuration" />
-	 	<outline language="english" type="rss" version="RSS" text="eZ Forum Setup and Design" htmlUrl="http://ez.no/community/forum/setup_design/" xmlUrl="http://ez.no/rss/feed/forum_setup_design" />
-	 	<outline language="english" type="rss" version="RSS" text="eZ Forum General" htmlUrl="http://ez.no/community/forum/general/" xmlUrl="http://ez.no/rss/feed/forum_general" />
-	 	<outline language="english" type="rss" version="RSS" text="eZ Forum Developer" htmlUrl="http://ez.no/community/forum/developer/" xmlUrl="http://ez.no/rss/feed/forum_developer" />
-	 	<outline language="english" type="rss" version="RSS" text="eZ Forum Suggestions" htmlUrl="http://ez.no/community/forum/suggestions/" xmlUrl="http://ez.no/rss/feed/forum_suggestions" />
+        <outline language="english" type="rss" version="RSS" text="eZ Forum Setup and Design" htmlUrl="http://ez.no/community/forum/setup_design/" xmlUrl="http://ez.no/rss/feed/forum_setup_design" />
+        <outline language="english" type="rss" version="RSS" text="eZ Forum General" htmlUrl="http://ez.no/community/forum/general/" xmlUrl="http://ez.no/rss/feed/forum_general" />
+        <outline language="english" type="rss" version="RSS" text="eZ Forum Developer" htmlUrl="http://ez.no/community/forum/developer/" xmlUrl="http://ez.no/rss/feed/forum_developer" />
+        <outline language="english" type="rss" version="RSS" text="eZ Forum Suggestions" htmlUrl="http://ez.no/community/forum/suggestions/" xmlUrl="http://ez.no/rss/feed/forum_suggestions" />
         <outline language="english" type="rss" version="RSS" text="eZ Forum Components" htmlUrl="http://ez.no/rss/feed/forum_ez_components" xmlUrl="http://ez.no/rss/feed/forum_ez_components" />
-	</outline>
-	<outline text="ez-svn">
+    </outline>
+    <outline text="ez-svn">
         <outline language="english" type="rss" version="RSS" text="svn.ez.no | components | commit recent commits" htmlUrl="http://svn.ez.no/rss.php?repname=ezcomponents&amp;rev=0&amp;sc=1&amp;isdir=1" xmlUrl="http://svn.ez.no/rss.php?repname=ezcomponents&amp;rev=0&amp;sc=1&amp;isdir=1" />
         <outline language="english" type="rss" version="RSS" text="svn.ez.no | extensions | commit log" htmlUrl="http://svn.ez.no/rss.php?repname=extensions&amp;path=%2F&amp;rev=0&amp;sc=1&amp;isdir=1" xmlUrl="http://svn.ez.no/rss.php?repname=extensions&amp;path=%2F&amp;rev=0&amp;sc=1&amp;isdir=1" />
         <outline language="english" type="rss" version="RSS" text="pubsvn.ez.no | ezpublish | commit log" htmlUrl="http://pubsvn.ez.no/websvn/log.php?repname=nextgen&amp;path=&amp;rev=0&amp;sc=0&amp;isdir=1" xmlUrl="http://pubsvn.ez.no/websvn/rss.php?repname=nextgen&amp;path=%2F&amp;rev=0&amp;sc=1&amp;isdir=1" />
@@ -42,7 +42,7 @@
         <outline language="english" type="rss" version="RSS" text="issues.ez.no | eZ Find recent changes" htmlUrl="http://issues.ez.no" xmlUrl="http://issues.ez.no/Timeline.php?ProjectId=8&amp;output=rss2" />
         <outline language="english" type="rss" version="RSS" text="issues.ez.no | ez.no recent changes" htmlUrl="http://issues.ez.no" xmlUrl="http://issues.ez.no/Timeline.php?ProjectId=2&amp;output=rss2" />
     </outline>
-	<outline text="ez-planet">
+    <outline text="ez-planet">
         <outline language="english" type="rss" version="RSS" text="Planet eZ publish" htmlUrl="http://www.planetezpublish.org" xmlUrl="http://www.planetezpublish.org/rss/feed/rss20.xml" />
         <outline language="english" type="rss" version="RSS" text="eZ Systems North America Blog" htmlUrl="http://www.ezsystems.ca/rss/feed/blog" xmlUrl="http://www.ezsystems.ca" />
         <outline language="english" type="rss" version="RSS" text="Technorati : Tag : eZ publish" htmlUrl="http://www.technorati.com/tag/ez%20publish/" xmlUrl="http://feeds.technorati.com/feed/posts/tag/ez%20publish" />
@@ -56,5 +56,5 @@
         <outline language="english" type="rss" version="RSS" text="eZpedia" htmlUrl="http://ezpedia.org/wiki" xmlUrl="http://ezpedia.org/wiki/rss/feed/main" />
         <outline language="english" type="rss" version="RSS" text="eZpedia : About" htmlUrl="http://ezpedia.org/wiki/en/about" xmlUrl="http://ezpedia.org/wiki/rss/feed/about" />
     </outline>
-	</body>
+    </body>
 </opml>
