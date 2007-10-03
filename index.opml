@@ -10,10 +10,15 @@
     <body>
     <outline text="ez-no">
         <outline language="english" type="rss" version="RSS" text="eZ News" htmlUrl="http://ez.no/company/news/" xmlUrl="http://ez.no/rss/feed/news" />
+        <outline language="english" type="rss" version="RSS" text="eZ Publish News" htmlUrl="http://ez.no/ezpublish/news" xmlUrl="http://ez.no/rss/feed/ezpublishnews" />
+        <outline language="english" type="rss" version="RSS" text="eZ Components News" htmlUrl="http://ez.no/ezcomponents/news" xmlUrl="http://ez.no/rss/feed/ezcomponentsnews" />
         <outline language="english" type="rss" version="RSS" text="eZ Community News" htmlUrl="http://ez.no/community/news/" xmlUrl="http://ez.no/rss/feed/communitynews" />
-        <outline language="english" type="rss" version="RSS" text="eZ Articles" htmlUrl="http://ez.no/community/articles/" xmlUrl="http://ez.no/rss/feed/community_articles" />
+
         <outline language="english" type="rss" version="RSS" text="eZ Education Articles" htmlUrl="http://ez.no/education/articles" xmlUrl="http://ez.no/rss/feed/community_articles" />
+        <outline language="english" type="rss" version="RSS" text="eZ Articles" htmlUrl="http://ez.no/community/articles/" xmlUrl="http://ez.no/rss/feed/community_articles" />
         <outline language="english" type="rss" version="RSS" text="eZ Open Funding" htmlUrl="http://ez.no/developer/open_funding/suggestions_for_new_functionality" xmlUrl="http://ez.no/rss/feed/openfunding_suggestions" />
+        <outline language="english" type="rss" version="RSS" text="eZ Projects | Contributions" htmlUrl="http://ez.no/community/contribs" xmlUrl="http://ez.no/rss/feed/contribs" />
+        <outline language="english" type="rss" version="RSS" text="eZ Security Advisories" htmlUrl="http://ez.no/community/security/security_advisories" xmlUrl="http://ez.no/rss/feed/sa" />
 
         <outline language="english" type="rss" version="RSS" text="eZ Future Specifications" htmlUrl="http://ez.no/community/developer/specs/" xmlUrl="http://ez.no/rss/feed/specs" />
         <outline language="english" type="rss" version="RSS" text="eZ Blog" htmlUrl="http://ez.no/community/blog/" xmlUrl="http://ez.no/rss/feed/blog" />
@@ -51,6 +56,7 @@
     </outline>
     <outline text="ez-partners">
         <outline language="english" type="rss" version="RSS" text="VisionWT News" htmlUrl="http://www.visionwt.com/news/" xmlUrl="http://www.visionwt.com/rss/feed/news/" />
+        <outline language="english" type="rss" version="RSS" text="Brookins Consulting" htmlUrl="http://brookinsconsulting.com/company/news" xmlUrl="http://brookinsconsulting.com/rss/feed/news" />
     </outline>
     <outline text="ez-community">
         <outline language="english" type="rss" version="RSS" text="eZpedia" htmlUrl="http://ezpedia.org/wiki" xmlUrl="http://ezpedia.org/wiki/rss/feed/main" />
