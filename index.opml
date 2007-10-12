@@ -49,7 +49,8 @@
         <outline language="english" type="rss" version="RSS" text="eZ Future - Podcast" htmlUrl="http://www.visionwt.com/eng/free_ez_training/ez_future_podcast" xmlUrl="http://www.visionwt.com/rss/feed/ezfuture" />
         <outline language="english" type="rss" version="RSS" text="Brookins Consulting : Blog" htmlUrl="http://blog.brookinsconsulting.com/rss" xmlUrl="http://blog.brookinsconsulting.com/rss" />
         <outline language="english" type="rss" version="RSS" text="Technorati : Tag : eZ publish" htmlUrl="http://www.technorati.com/tag/ez%20publish/" xmlUrl="http://feeds.technorati.com/feed/posts/tag/ez%20publish" />
-        <outline language="english" type="rss" version="RSS" text="eZ Publish on Digg" htmlUrl="http://digg.com" xmlUrl="http://digg.com/rss_search?search=eZ%2BPublish&area=all&type=all&section=all" />               
+        <outline language="english" type="rss" version="RSS" text="eZ Publish on Digg" htmlUrl="http://digg.com" xmlUrl="http://digg.com/rss_search?search=eZ%2BPublish&amp;area=all&amp;type=all&amp;section=all" />               
+        <outline language="english" type="rss" version="RSS" text="eZ Publish on opensourcexperts.com" htmlUrl="http://www.opensourcexperts.com/Index/index_html/eZ%20publish/index.html" xmlUrl="http://www.opensourcexperts.com/Index/rdfrss/eZ%20publish.xml" />               
     </outline>
     <outline text="ezpedia-org">
         <outline language="english" type="rss" version="RSS" text="eZpedia" htmlUrl="http://ezpedia.org/wiki" xmlUrl="http://ezpedia.org/wiki/rss/feed/main" />
