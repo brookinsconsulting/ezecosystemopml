@@ -55,6 +55,8 @@
         <outline language="english" type="rss" version="RSS" text="eZ Publish on opensourcexperts.com" htmlUrl="http://www.opensourcexperts.com/Index/index_html/eZ%20publish/index.html" xmlUrl="http://www.opensourcexperts.com/Index/rdfrss/eZ%20publish.xml" />               
         <outline language="english" type="rss" version="RSS" text="eZ Publish on Technorati" htmlUrl="http://www.technorati.com/tag/ez%20publish/" xmlUrl="http://feeds.technorati.com/feed/posts/tag/ez%20publish" />
         <outline language="english" type="rss" version="RSS" text="eZ Publish on FriendFeed" htmlUrl="http://friendfeed.com/rooms/ez-publish" xmlUrl="http://friendfeed.com/rooms/ez-publish?format=atom" />
+        <outline language="english" type="rss" version="RSS" text="eZ Publish on Twitter" htmlUrl="http://search.twitter.com/search?q=ezpublish+OR+eZ+Publish+OR+ezp+OR+ezconf" xmlUrl="http://search.twitter.com/search.atom?q=ezpublish+OR+eZ+Publish+OR+ezp+OR+ezconf" />
+        <outline language="english" type="rss" version="RSS" text="eZ Publish on Youtube" htmlUrl="http://www.youtube.com/profile?user=ezpublish" xmlUrl="http://gdata.youtube.com/feeds/base/users/ezpublish/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile" />
         <outline language="english" type="rss" version="RSS" text="Brookins Consulting : Blog" htmlUrl="http://blog.brookinsconsulting.com/rss" xmlUrl="http://blog.brookinsconsulting.com/rss" />
     </outline>
     <outline text="ez-forum">
