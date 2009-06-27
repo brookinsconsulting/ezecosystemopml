@@ -5,7 +5,7 @@
         <ownerName>bc</ownerName>
         <ownerEmail>brookinsconsulting+ezopml [ a t ] gmail [ d o t ] com</ownerEmail>
         <dateCreated>10/26/2005; 17:53:03 AM</dateCreated>
-        <dateModified>Sat, 27 July 2009 17:16:00 -0600</dateModified>
+        <dateModified>Sat, 27 July 2009 17:36:00 -0600</dateModified>
     </head>
     <body>
     <outline text="ez-no">
@@ -24,7 +24,7 @@
         <outline language="english" type="rss" version="RSS" text="eZ Blog" htmlUrl="http://ez.no/community/blog/" xmlUrl="http://ez.no/rss/feed/blog" />
         <outline language="english" type="rss" version="RSS" text="eZ Bugs" htmlUrl="http://ez.no/rss/feed/bugs" xmlUrl="http://ez.no/rss/feed/bugs" />
     </outline>
-	<outline text="ez-issues">
+    <outline text="ez-issues">
         <outline language="english" type="rss" version="RSS" text="issues.ez.no | eZ Publish recent changes" htmlUrl="http://issues.ez.no" xmlUrl="http://issues.ez.no/Timeline.php?ProjectId=3&amp;output=rss2" />
         <outline language="english" type="rss" version="RSS" text="issues.ez.no | eZ Components recent changes" htmlUrl="http://issues.ez.no" xmlUrl="http://issues.ez.no/Timeline.php?ProjectId=1&amp;output=rss2" />
         <outline language="english" type="rss" version="RSS" text="issues.ez.no | Online Editor recent changes" htmlUrl="http://issues.ez.no" xmlUrl="http://issues.ez.no/Timeline.php?ProjectId=4&amp;output=rss2" />
@@ -34,6 +34,12 @@
     <outline text="ezpedia-org">
         <outline language="english" type="rss" version="RSS" text="eZpedia" htmlUrl="http://ezpedia.org/wiki" xmlUrl="http://ezpedia.org/wiki/rss/feed/main" />
         <outline language="english" type="rss" version="RSS" text="eZpedia : About" htmlUrl="http://ezpedia.org/wiki/en/about" xmlUrl="http://ezpedia.org/wiki/rss/feed/about" />        
+    </outline>
+    <outline text="ez|git|community">
+        <outline type="rss" text="ezcomponents.git" title="ezcomponents.git" xmlUrl="http://git.forge.ymc.ch/?p=ezcomponents.git;a=rss" htmlUrl="http://git.forge.ymc.ch/?p=ezcomponents.git;a=summary"/>
+        <outline type="rss" text="ezpublish.git" title="ezpublish.git" xmlUrl="http://git.forge.ymc.ch/?p=ezpublish.git;a=rss" htmlUrl="http://git.forge.ymc.ch/?p=ezpublish.git;a=summary"/>
+        <outline type="rss" text="mantisbt.git" title="mantisbt.git" xmlUrl="http://git.forge.ymc.ch/?p=mantisbt.git;a=rss" htmlUrl="http://git.forge.ymc.ch/?p=mantisbt.git;a=summary"/>
+        <outline language="english" type="rss" version="RSS" text="forge.ymc.ch | ezpublish issues" htmlUrl="http://forge.ymc.ch/issues" xmlUrl="http://forge.ymc.ch/issues/issues_rss.php?project_id=0" />
     </outline>
     <outline text="ez-projects">
         <outline language="english" type="rss" version="RSS" text="projects.ez.no | all project subversion" htmlUrl="http://projects.ez.no" xmlUrl="http://projects.ez.no/rss/feed/subversion" />
