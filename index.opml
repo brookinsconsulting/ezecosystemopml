@@ -5,7 +5,7 @@
         <ownerName>bc</ownerName>
         <ownerEmail>brookinsconsulting+ezopml [ a t ] gmail [ d o t ] com</ownerEmail>
         <dateCreated>10/26/2005; 17:53:03 AM</dateCreated>
-        <dateModified>Fri, 26 Dec 2008 21:36:00 -0600</dateModified>
+        <dateModified>Sat, 27 July 2009 17:16:00 -0600</dateModified>
     </head>
     <body>
     <outline text="ez-no">
@@ -53,6 +53,7 @@
         <outline language="english" type="rss" version="RSS" text="eZ Publish on FriendFeed" htmlUrl="http://friendfeed.com/rooms/ez-publish" xmlUrl="http://friendfeed.com/rooms/ez-publish?format=atom" />
         <outline language="english" type="rss" version="RSS" text="eZ Publish on Twitter" htmlUrl="http://search.twitter.com/search?q=ezpublish+OR+eZ+Publish+OR+ezp+OR+ezconf" xmlUrl="http://search.twitter.com/search.atom?q=ezpublish+OR+eZ+Publish+OR+ezp+OR+ezconf" />
         <outline language="english" type="rss" version="RSS" text="eZ Publish on Youtube" htmlUrl="http://www.youtube.com/profile?user=ezpublish" xmlUrl="http://gdata.youtube.com/feeds/base/users/ezpublish/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile" />
+        <outline language="english" type="rss" version="RSS" text="BitNami : Stack Forums : eZ Publish" htmlUrl="http://bitnami.org/forums/forums/ez-publish/posts.atom" xmlUrl="http://bitnami.org/forums/forums/ez-publish" />
         <outline language="english" type="rss" version="RSS" text="eZ Systems North America" htmlUrl="http://feeds.feedburner.com/ezna" xmlUrl="http://www.ezsystems.ca" />
         <outline language="english" type="rss" version="RSS" text="eZ Publish on Digg" htmlUrl="http://digg.com" xmlUrl="http://digg.com/rss_search?search=eZ%2BPublish&amp;area=all&amp;type=all&amp;section=all" />
         <outline language="english" type="rss" version="RSS" text="eZ Publish Articles on Digg" htmlUrl="http://digg.com" xmlUrl="http://digg.com/users/ezpublish/history.rss" />
