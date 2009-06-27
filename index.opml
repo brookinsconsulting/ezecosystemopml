@@ -67,6 +67,11 @@
         <outline language="english" type="rss" version="RSS" text="eZ Publish on Technorati" htmlUrl="http://www.technorati.com/tag/ez%20publish/" xmlUrl="http://feeds.technorati.com/feed/posts/tag/ez%20publish" />
         <outline language="english" type="rss" version="RSS" text="Brookins Consulting : Blog" htmlUrl="http://blog.brookinsconsulting.com/rss" xmlUrl="http://blog.brookinsconsulting.com/rss" />
     </outline>
+    <outline text="ezcomponents-org">
+        <outline language="english" type="rss" version="RSS" text="eZ Components Latest Articles" htmlUrl="http://ezcomponents.org/articles" xmlUrl="http://ezcomponents.org/feed/rss2/articles" />
+        <outline language="english" type="rss" version="RSS" text="eZ Components Latest Resources" htmlUrl="http://ezcomponents.org/resources" xmlUrl="http://ezcomponents.org/feed/rss2/resources" />
+        <outline language="english" type="rss" version="RSS" text="eZ Components Latest News" htmlUrl="http://ezcomponents.org/news" xmlUrl="http://ezcomponents.org/feed/rss2/news" />
+    </outline>
     <outline text="ez-forum">
         <outline language="english" type="rss" version="RSS" text="eZ Forum Install and Configuration" htmlUrl="http://ez.no/community/forum/install_configuration/" xmlUrl="http://ez.no/rss/feed/forum_install_configuration" />
         <outline language="english" type="rss" version="RSS" text="eZ Forum Setup and Design" htmlUrl="http://ez.no/community/forum/setup_design/" xmlUrl="http://ez.no/rss/feed/forum_setup_design" />
