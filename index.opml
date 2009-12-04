@@ -5,9 +5,21 @@
         <ownerName>bc</ownerName>
         <ownerEmail>brookinsconsulting+ezopml [ a t ] gmail [ d o t ] com</ownerEmail>
         <dateCreated>10/26/2005; 17:53:03 AM</dateCreated>
-        <dateModified>Sat, 27 July 2009 17:36:00 -0600</dateModified>
+        <dateModified>Fri, 04 December 2009 13:46:00 -0600</dateModified>
     </head>
-    <body>
+    <body>    
+    <outline text="share-ez-no">
+      <outline language="english" type="rss" version="RSS" text="eZ Share New Blogs" htmlUrl="http://share.ez.no/blogs" xmlUrl="http://share.ez.no/rss/feed/blogs"/>
+      <outline language="english" type="rss" version="RSS" text="eZ Share New Articles" htmlUrl="http://share.ez.no/articles" xmlUrl="http://share.ez.no/rss/feed/articles"/>
+      <outline language="english" type="rss" version="RSS" text="eZ Share All New Forum Messages" htmlUrl="http://share.ez.no/forums" xmlUrl="http://share.ez.no/rss/feed/all_forums"/>
+      <outline language="english" type="rss" version="RSS" text="eZ Share Forum Install and Configuration" htmlUrl="http://share.ez.no/forums/install-configuration" xmlUrl="http://share.ez.no/rss/feed/forums_install_and_configuration"/>
+      <outline language="english" type="rss" version="RSS" text="eZ Share Forum Setup and Design" htmlUrl="http://share.ez.no/forums/setup-design" xmlUrl="http://share.ez.no/rss/feed/forums_setup_and_design"/>
+      <outline language="english" type="rss" version="RSS" text="eZ Share Forum General" htmlUrl="http://share.ez.no/forums/general" xmlUrl="http://share.ez.no/index.php/rss/feed/forums_general"/>
+      <outline language="english" type="rss" version="RSS" text="eZ Share Forum Discussions" htmlUrl="http://share.ez.no/forums/discussions" xmlUrl="http://share.ez.no/rss/feed/forums_discussions"/>
+      <outline language="english" type="rss" version="RSS" text="eZ Share Forum Developer" htmlUrl="http://share.ez.no/forums/developer" xmlUrl="http://share.ez.no/rss/feed/forums_developer"/>
+      <outline language="english" type="rss" version="RSS" text="eZ Share Forum Suggestions" htmlUrl="http://share.ez.no/forums/suggestions" xmlUrl="http://share.ez.no/index.php/rss/feed/forums_suggestions"/>
+      <outline language="english" type="rss" version="RSS" text="eZ Share Forum Extensions" htmlUrl="http://share.ez.no/forums/extensions" xmlUrl="http://share.ez.no/index.php/rss/feed/forums_extensions"/>
+    </outline>
     <outline text="ez-no">
         <outline language="english" type="rss" version="RSS" text="eZ News" htmlUrl="http://ez.no/company/news/" xmlUrl="http://ez.no/rss/feed/news" />
         <outline language="english" type="rss" version="RSS" text="eZ Publish News" htmlUrl="http://ez.no/ezpublish/news" xmlUrl="http://ez.no/rss/feed/ezpublishnews" />
