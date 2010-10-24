@@ -20,32 +20,19 @@
       <outline language="english" type="rss" version="RSS" text="eZ Share Forum Suggestions" htmlUrl="http://share.ez.no/forums/suggestions" xmlUrl="http://share.ez.no/index.php/rss/feed/forums_suggestions"/>
       <outline language="english" type="rss" version="RSS" text="eZ Share Forum Extensions" htmlUrl="http://share.ez.no/forums/extensions" xmlUrl="http://share.ez.no/index.php/rss/feed/forums_extensions"/>
     </outline>
-    <outline text="ez-no">
-        <outline language="english" type="rss" version="RSS" text="eZ News" htmlUrl="http://ez.no/company/news/" xmlUrl="http://ez.no/rss/feed/news" />
-        <outline language="english" type="rss" version="RSS" text="eZ Publish News" htmlUrl="http://ez.no/ezpublish/news" xmlUrl="http://ez.no/rss/feed/ezpublishnews" />
-        <outline language="english" type="rss" version="RSS" text="eZ Components News" htmlUrl="http://ez.no/ezcomponents/news" xmlUrl="http://ez.no/rss/feed/ezcomponentsnews" />
-        <outline language="english" type="rss" version="RSS" text="eZ Community News" htmlUrl="http://ez.no/community/news/" xmlUrl="http://ez.no/rss/feed/communitynews" />
-
-        <outline language="english" type="rss" version="RSS" text="eZ Education Articles" htmlUrl="http://ez.no/education/articles" xmlUrl="http://ez.no/rss/feed/community_articles" />
-        <outline language="english" type="rss" version="RSS" text="eZ Articles" htmlUrl="http://ez.no/community/articles/" xmlUrl="http://ez.no/rss/feed/community_articles" />
-        <outline language="english" type="rss" version="RSS" text="eZ Open Funding" htmlUrl="http://ez.no/developer/open_funding/suggestions_for_new_functionality" xmlUrl="http://ez.no/rss/feed/openfunding_suggestions" />
-        <outline language="english" type="rss" version="RSS" text="eZ Projects | Contributions" htmlUrl="http://ez.no/community/contribs" xmlUrl="http://ez.no/rss/feed/contribs" />
-        <outline language="english" type="rss" version="RSS" text="eZ Security Advisories" htmlUrl="http://ez.no/community/security/security_advisories" xmlUrl="http://ez.no/rss/feed/sa" />
-
-        <outline language="english" type="rss" version="RSS" text="eZ Future Specifications" htmlUrl="http://ez.no/community/developer/specs/" xmlUrl="http://ez.no/rss/feed/specs" />
-        <outline language="english" type="rss" version="RSS" text="eZ Blog" htmlUrl="http://ez.no/community/blog/" xmlUrl="http://ez.no/rss/feed/blog" />
-        <outline language="english" type="rss" version="RSS" text="eZ Bugs" htmlUrl="http://ez.no/rss/feed/bugs" xmlUrl="http://ez.no/rss/feed/bugs" />
-    </outline>
     <outline text="ez-issues">
         <outline language="english" type="rss" version="RSS" text="issues.ez.no | eZ Publish recent changes" htmlUrl="http://issues.ez.no" xmlUrl="http://issues.ez.no/Timeline.php?ProjectId=3&amp;output=rss2" />
         <outline language="english" type="rss" version="RSS" text="issues.ez.no | eZ Components recent changes" htmlUrl="http://issues.ez.no" xmlUrl="http://issues.ez.no/Timeline.php?ProjectId=1&amp;output=rss2" />
+        <outline language="english" type="rss" version="RSS" text="issues.ez.no | Community recent changes" htmlUrl="http://issues.ez.no" xmlUrl="http://issues.ez.no/Timeline.php?ProjectId=6&amp;output=rss2" />
         <outline language="english" type="rss" version="RSS" text="issues.ez.no | Online Editor recent changes" htmlUrl="http://issues.ez.no" xmlUrl="http://issues.ez.no/Timeline.php?ProjectId=4&amp;output=rss2" />
         <outline language="english" type="rss" version="RSS" text="issues.ez.no | eZ Find recent changes" htmlUrl="http://issues.ez.no" xmlUrl="http://issues.ez.no/Timeline.php?ProjectId=8&amp;output=rss2" />
         <outline language="english" type="rss" version="RSS" text="issues.ez.no | ez.no recent changes" htmlUrl="http://issues.ez.no" xmlUrl="http://issues.ez.no/Timeline.php?ProjectId=2&amp;output=rss2" />
     </outline>
     <outline text="ezpedia-org">
-        <outline language="english" type="rss" version="RSS" text="eZpedia" htmlUrl="http://ezpedia.org/wiki" xmlUrl="http://ezpedia.org/wiki/rss/feed/main" />
-        <outline language="english" type="rss" version="RSS" text="eZpedia : About" htmlUrl="http://ezpedia.org/wiki/en/about" xmlUrl="http://ezpedia.org/wiki/rss/feed/about" />        
+        <outline language="english" type="rss" version="RSS" text="eZpedia" htmlUrl="http://ezpedia.org" xmlUrl="http://ezpedia.org/rss/updated/updated" />
+        <outline language="english" type="rss" version="RSS" text="eZpedia : About" htmlUrl="http://ezpedia.org/en/about" xmlUrl="http://ezpedia.org/rss/updated/about" />
+        <outline language="english" type="rss" version="RSS" text="eZpedia : Updated" htmlUrl="http://ezpedia.org/en/updated" xmlUrl="http://ezpedia.org/rss/updated/updated" />
+        <outline language="english" type="rss" version="RSS" text="eZpedia : Discussion" htmlUrl="http://ezpedia.org/en/ez/discussions/discussion" xmlUrl="http://ezpedia.org/rss/updated/discussion" />
     </outline>
     <outline text="ez|git|community">
         <outline type="rss" text="ezcomponents.git" title="ezcomponents.git" xmlUrl="http://git.forge.ymc.ch/?p=ezcomponents.git;a=rss" htmlUrl="http://git.forge.ymc.ch/?p=ezcomponents.git;a=summary"/>
@@ -84,13 +71,29 @@
         <outline language="english" type="rss" version="RSS" text="eZ Components Latest Resources" htmlUrl="http://ezcomponents.org/resources" xmlUrl="http://ezcomponents.org/feed/rss2/resources" />
         <outline language="english" type="rss" version="RSS" text="eZ Components Latest News" htmlUrl="http://ezcomponents.org/news" xmlUrl="http://ezcomponents.org/feed/rss2/news" />
     </outline>
-    <outline text="ez-forum">
-        <outline language="english" type="rss" version="RSS" text="eZ Forum Install and Configuration" htmlUrl="http://ez.no/community/forum/install_configuration/" xmlUrl="http://ez.no/rss/feed/forum_install_configuration" />
-        <outline language="english" type="rss" version="RSS" text="eZ Forum Setup and Design" htmlUrl="http://ez.no/community/forum/setup_design/" xmlUrl="http://ez.no/rss/feed/forum_setup_design" />
-        <outline language="english" type="rss" version="RSS" text="eZ Forum General" htmlUrl="http://ez.no/community/forum/general/" xmlUrl="http://ez.no/rss/feed/forum_general" />
-        <outline language="english" type="rss" version="RSS" text="eZ Forum Developer" htmlUrl="http://ez.no/community/forum/developer/" xmlUrl="http://ez.no/rss/feed/forum_developer" />
-        <outline language="english" type="rss" version="RSS" text="eZ Forum Suggestions" htmlUrl="http://ez.no/community/forum/suggestions/" xmlUrl="http://ez.no/rss/feed/forum_suggestions" />
-        <outline language="english" type="rss" version="RSS" text="eZ Forum Components" htmlUrl="http://ez.no/rss/feed/forum_ez_components" xmlUrl="http://ez.no/rss/feed/forum_ez_components" />
+    <outline text="auth-ez-forum">
+        <outline language="english" type="rss" version="RSS" text="eZ Forum Install and Configuration" htmlUrl="http://auth.ez.no/community/forum/install_configuration/" xmlUrl="http://auth.ez.no/rss/feed/forum_install_configuration" />
+        <outline language="english" type="rss" version="RSS" text="eZ Forum Setup and Design" htmlUrl="http://auth.ez.no/community/forum/setup_design/" xmlUrl="http://auth.ez.no/rss/feed/forum_setup_design" />
+        <outline language="english" type="rss" version="RSS" text="eZ Forum General" htmlUrl="http://auth.ez.no/community/forum/general/" xmlUrl="http://auth.ez.no/rss/feed/forum_general" />
+        <outline language="english" type="rss" version="RSS" text="eZ Forum Developer" htmlUrl="http://auth.ez.no/community/forum/developer/" xmlUrl="http://auth.ez.no/rss/feed/forum_developer" />
+        <outline language="english" type="rss" version="RSS" text="eZ Forum Suggestions" htmlUrl="http://auth.ez.no/community/forum/suggestions/" xmlUrl="http://auth.ez.no/rss/feed/forum_suggestions" />
+        <outline language="english" type="rss" version="RSS" text="eZ Forum Components" htmlUrl="http://auth.ez.no/rss/feed/forum_ez_components" xmlUrl="http://auth.ez.no/rss/feed/forum_ez_components" />
+    </outline>
+    <outline text="auth-ez-no">
+        <outline language="english" type="rss" version="RSS" text="eZ News" htmlUrl="http://auth.ez.no/company/news/" xmlUrl="http://auth.ez.no/rss/feed/news" />
+        <outline language="english" type="rss" version="RSS" text="eZ Publish News" htmlUrl="http://auth.ez.no/ezpublish/news" xmlUrl="http://auth.ez.no/rss/feed/ezpublishnews" />
+        <outline language="english" type="rss" version="RSS" text="eZ Components News" htmlUrl="http://auth.ez.no/ezcomponents/news" xmlUrl="http://auth.ez.no/rss/feed/ezcomponentsnews" />
+        <outline language="english" type="rss" version="RSS" text="eZ Community News" htmlUrl="http://auth.ez.no/community/news/" xmlUrl="http://auth.ez.no/rss/feed/communitynews" />
+
+        <outline language="english" type="rss" version="RSS" text="eZ Education Articles" htmlUrl="http://auth.ez.no/education/articles" xmlUrl="http://auth.ez.no/rss/feed/community_articles" />
+        <outline language="english" type="rss" version="RSS" text="eZ Articles" htmlUrl="http://auth.ez.no/community/articles/" xmlUrl="http://auth.ez.no/rss/feed/community_articles" />
+        <outline language="english" type="rss" version="RSS" text="eZ Open Funding" htmlUrl="http://auth.ez.no/developer/open_funding/suggestions_for_new_functionality" xmlUrl="http://auth.ez.no/rss/feed/openfunding_suggestions" />
+        <outline language="english" type="rss" version="RSS" text="eZ Projects | Contributions" htmlUrl="http://auth.ez.no/community/contribs" xmlUrl="http://auth.ez.no/rss/feed/contribs" />
+        <outline language="english" type="rss" version="RSS" text="eZ Security Advisories" htmlUrl="http://auth.ez.no/community/security/security_advisories" xmlUrl="http://auth.ez.no/rss/feed/sa" />
+
+        <outline language="english" type="rss" version="RSS" text="eZ Future Specifications" htmlUrl="http://auth.ez.no/community/developer/specs/" xmlUrl="http://auth.ez.no/rss/feed/specs" />
+        <outline language="english" type="rss" version="RSS" text="eZ Blog" htmlUrl="http://auth.ez.no/community/blog/" xmlUrl="http://auth.ez.no/rss/feed/blog" />
+        <outline language="english" type="rss" version="RSS" text="eZ Bugs" htmlUrl="http://auth.ez.no/rss/feed/bugs" xmlUrl="http://auth.ez.no/rss/feed/bugs" />
     </outline>
     </body>
 </opml>
